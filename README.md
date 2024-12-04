@@ -5,7 +5,7 @@
 This project is a simple, lightweight web server written in C that demonstrates the fundamentals of handling HTTP requests and serving content. It is designed to process incoming client requests, interpret them, and serve static files (like HTML, CSS, and images) from a local directory.
 
 ## Features
-- Handles HTTP Requests: The server listens on a specified port and accepts incoming HTTP requests.
+- **Handles HTTP Requests**: The server listens on a specified port and accepts incoming HTTP requests.
 - **Supports GET Method:** The server currently supports the GET method for retrieving files from the server.
 - **Static File Serving:** Serve static files (HTML, CSS, JavaScript, images) to the client.
 - **Basic HTTP Response Handling:** Send basic HTTP responses, including headers (e.g., `200 OK` for successful requests).
